@@ -1,0 +1,309 @@
+  {
+    "recipes": [
+      { 
+        "id": "1", 
+        "title": "Feijoada Portuguesa",
+        "description": "A Feijoada Portuguesa é um dos pratos mais tradicionais e reconfortantes da gastronomia nacional. Rica em sabor e tradição, esta receita combina feijão, enchidos e carne de porco num guisado cheio de aromas que aquece o corpo e a alma. Seja em dias frios ou em almoços de família, a feijoada é sinónimo de convívio, sabor e herança portuguesa.",
+        "url":"https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/bf0b6a9ffe1e83960ebf31ed8af6d05f/Derivates/eabadaf71c49ba2b4c70d7317518fa5225c6bc82.jpg",
+        "time": "65",
+        "portions": "8",
+        "instructions":["Numa panela com água a ferver e sal, junte o entrecosto, a entremeada, a orelha de porco, a cebola e o chouriço. Tape e deixe cozer.","Depois de cozido, coloque as carnes para uma travessa, retire o excesso de gorduras/pele e cartilagens, e deixe arrefecer.","Numa outra panela, leve ao lume o azeite, a cebola e os alhos picados e a folha de louro. Mexa e deixe refogar.","Junte ao refogado o tomate sem cubos, rodelas de cenoura e a couve em juliana. Deixe cozinhar durante 10 minutos.","Junte as carnes e mexa.","Junte o feijão escorrido e envolva. Junte o caldo de cozer as carnes, e se necessário, junte um pouco mais de caldo de cozer o feijão. Sirva a feijoada com arroz branco."],
+        "ingredients": ["250 g de entremeada","300 g de entrecosto","1 chouriço","1 cebola laminada","Água q.b.","1 c. café de sal","1 fio de azeite","1 cebola picada","2 dentes de alho picados","1 folha de louro","1 tomate em cubos","4 cenouras às rodelas","1/2 couve portuguesa em juliana","1 orelha de porco cozida em pedaços","1 lata pequena de feijão branco"]
+      },
+      { 
+        "id":"2",
+        "title":"Alheira à Brás",
+        "description":"A alheira à Brás é uma versão rica e saborosa do clássico português, que combina a tradicional alheira com a cremosidade e o conforto deste prato tão apreciado.",
+        "url":"https://feed.continente.pt/media/1g2jpqvv/alheira-a-bras.jpg?anchor=center&mode=crop&width=826&height=620&rnd=134088227442070000&format=webp",
+        "time":"20",
+        "portions":"4",
+        "instructions":["Aqueça o azeite numa frigideira e junte a cebola cortada em meias-luas, deixando alourar.","Adicione as alheiras esmagadas, sem pele, e deixe cozinhar durante 3 minutos.","Junte 200 g de batata palha e misture bem.","Envolva os ovos batidos e, quando começarem a coagular, acrescente mais 100 g de batata palha, misturando até atingir a textura desejada.","Sirva a alheira à Brás polvilhada com salsa picada e decorada com azeitonas pretas."],
+        "ingredients":["1 c. sopa de azeite","1 cebola em meias-luas","2 alheiras esmagadas (sem pele)","400 g de batata palha","5 ovos batidos","Azeitonas pretas q.b.","Salsa picada q.b."]
+      },
+      {
+        "id":"3",
+        "title":"Lombo de Porco Recheado",
+        "description":"O lombo de porco recheado com alheira é uma daquelas receitas que transformam qualquer refeição num momento especial, com sabores robustos e irresistíveis.",
+        "url":"https://feed.continente.pt/media/vzmjwtwi/lombo-de-porco.jpg?anchor=center&mode=crop&width=826&height=620&rnd=134097717610530000&format=webp",
+        "time":"130",
+        "portions":"6",
+        "instructions":["Utilizar a Yämmi durante 10 min a 100ºC.","Azeite e cebola a 100ºc velocidade 2.","Acrescentar os cogumelos e deixá-los cozinhar.","Adicionar os grelos descongelados.","Temperar com sal e pimenta.","Abrir o lombo em manta e temperar toda a superfície com sal.","Massajar o lombo para que fique mais tenro com maizena desfeita em vinho branco.","Espalhar o recheio sobre a carne e enrolar o lombo e atar com fio de cozinha para manter a forma.","Envolver em pelicula aderente e deixar a descansar no frigorifico no mínimo 4h.","Numa tigela, temperar as batatas com azeite, sal, pimenta e ervas a gosto. Colocar as batatas ao redor do lombo na assadeira, garantindo que ficam em contacto com os sucos da carne.","Regar o lombo com um fio de azeite e o vinho branco e polvilhar com pão ralado. Levar ao forno pré-aquecido a 180 ºC durante 1h15–1h30, regando a carne e as batatas a meio da cozedura.","Fatiar o lombo e servir com as batatinhas assadas."],
+        "ingredients":["1 lombo de porco aberto (cerca de 1,2–1,5 kg)","2 alheiras","200 g grelos congelados","200 g cogumelos frescos laminados","1 cebola roxa picada","2 c. de sopa de azeite","150 ml vinho branco","1 colher de sopa de amido de milho","3 dentes de alho","2 folhas de louro","Sal q.b.","Pimenta preta q.b.","50 g pão ralado","50 g de azeite","500 g batatinhas pequenas, cortadas ao meio","Alecrim ou tomilho q.b."]
+      },
+      {
+        "id":"4",
+        "title":"Pudim de Natal",
+        "description":"O pudim de Natal é um doce de Natal clássico que não pode faltar na mesa das festas. Cremoso, aromático e com aquele toque especial das tradições portuguesas, é a escolha perfeita para finalizar uma refeição em família. Aprenda passo a passo esta receita de Natal deliciosa e encante todos nesta época natalícia.",
+        "url":"https://feed.continente.pt/media/zqtbvplr/pudim-de-natal.jpg?anchor=center&mode=crop&width=826&height=620&rnd=134103742482900000&format=webp",
+        "time":"360",
+        "portions":"2",
+        "instructions":["Bata muito bem a manteiga com o açúcar e deite os ovos um a um, batendo sempre.","Junte os ingredientes secos, que já devem estar peneirados, o leite, o vinho do Porto e mexa bem.","Por último, deite as frutas e leve ao forno lento, numa forma lisa com papel untado de manteiga, levando cerca de 1h30 a 2h a cozer. Tire do lume e deite por cima um cálice de aguardente velha."],
+        "ingredients":["140 g de passas ou arandos","Rum q.b.","115 g de manteiga","200 g de açúcar mascavado escuro","60 g de farinha","½ c. de chá de fermento em pó","2 ovos","1 c. de sopa de mistura de especiarias","50 g de pão triturado","140 g de sultanas","1 maçã descascada e ralada","Raspa da casca de 1 laranja","90 ml de sumo de laranja","60 ml de brandy ou rum","3 c. de sopa de frutos cristalizados"]
+      },
+      {
+        "id":"6",
+        "title":"Salmão Gratinado",
+        "description":"O salmão gratinado é uma receita cremosa e reconfortante, onde o peixe fica suculento por dentro e dourado por cima, perfeita para uma refeição prática e cheia de sabor.",
+        "url":"https://feed.continente.pt/media/aprkl3p4/salmao-gratinado.jpg?anchor=center&mode=crop&width=826&height=620&rnd=134118424024700000&format=webp",
+        "time":"50",
+        "portions":"4",
+        "instructions":["Coloque as batatas em rodelas num tacho, cubra com água e deixe cozer durante 8 a 10 minutos. Escorra e reserve.","Numa frigideira, aqueça o azeite e junte a cebola picada, deixando refogar até ficar macia.","Acrescente o salmão em posta desfiado, mexa e deixe cozinhar durante cerca de 5 minutos.","Unte um tabuleiro com azeite e disponha uma camada de batatas, seguida de uma camada de salmão. Repita as camadas até terminar os ingredientes, finalizando com batatas.","Bata os ovos com as natas e verta a mistura sobre as batatas.","Leve ao forno pré-aquecido a 180 °C durante cerca de 30 minutos, até gratinar.","Sirva o salmão gratinado decorado com cebolinho picado."],
+        "ingredients":["800 g de batata em rodelas","1 c. sopa de azeite","1 cebola picada","510 g de salmão em posta ao natural","4 ovos","400 ml de natas","Cebolinho picado q.b."]
+      },
+      {
+        "id":"7",
+        "title":"Bacalhau à Lagareiro com Batatinhas a Murro",
+        "description":"O bacalhau à lagareiro com espinafres batatinhas a murro um prato clássico português, com textura suculenta do bacalhau, crocância e a cremosidade das batatas a frescura dos espinafres salteados. Conheça aqui as dicas que o chef Carlos Afonso tem para lhe dar.",
+        "url":"https://feed.continente.pt/media/ftxi2ive/bacalhau-lagareiro-batatinha.jpg?anchor=center&mode=crop&width=826&height=620&rnd=134093373445100000&format=webp",
+        "time":"50",
+        "portions":"6",
+        "instructions":["Levar as batatas a assar, numa camada de sal, durante cerca de 30 min a 180º.","Aquecer o azeite com alho e louro.","Colocar os lombos de bacalhau num tabuleiro e as batatas, regar com o azeite aromatizado e assar 15 minutos 160º C no forno (domestico).","Esmagar ligeiramente as batatas e envolver no azeite.","Saltear os espinafres rapidamente em azeite e alho e servir tudo junto."],
+        "ingredients":["4 lombos de bacalhau demolhado","600 g batata pequena para assar","150 g espinafres frescos","120 ml azeite","4 dentes de alho","2 folhas de louro","Azeitonas preta picadas q.b.","Folhas de coentros q.b","Sal q.b","Pimenta preta q.b"]
+      },
+      {
+        "id":"8",
+        "title":"Camarão com Molho de Manteiga",
+        "description":"Prato tradicional e aromático, com o picante do piri-piri e a riqueza da manteiga a envolver o camarão ligeiramente picante.",
+        "url":"https://feed.continente.pt/media/2m0jeblv/camarao-com-molho-de-manteiga.jpg?anchor=center&mode=crop&width=826&height=620&rnd=134108735270130000&format=webp",
+        "time":"20",
+        "portions":"4",
+        "instructions":["Aquecer azeite. Adicionar o camarão e saltear 4 a 5 minutos.","Adicionar o alho a meio da cozedura, e saltear, retirar o camarão e juntar o vinho branco. Acrescentar piri-piri e sumo de limão.","Emulsionar com cubos de manteiga fria.","Envolver bem e servir."],
+        "ingredients":["800 g camarão grande","40 g manteiga","30 ml azeite","50 ml de vinho branco","3 dentes de alho picados (12 g)","1 malagueta","Sal q.b.","Sumo de lima","Coentros Picados"]
+      },
+      {
+        "id":"9",
+        "title":"Bacalhau com Espinafres e Camarão",
+        "description":"O bacalhau com espinafres e camarão é uma receita cremosa e cheia de sabor, que combina a tradição do bacalhau com a frescura dos espinafres e a suculência do camarão, resultando numa refeição especial e reconfortante.",
+        "url":"https://feed.continente.pt/media/ibbctuoe/bacalhau-espinafres-camarao.jpg?anchor=center&mode=crop&width=826&height=620&rnd=134036037931700000&format=webp",
+        "time":"50",
+        "portions":"4",
+        "instructions":["Leve uma frigideira larga de ir ao forno ao lume com o azeite, a cebola e os alhos picados e deixe cozinhar um pouco (até a cebola amolecer e ganhar um pouco de cor).","Depois adicione o louro e a cenoura ralada e deixe cozinhar mais um pouco.","Junte os camarões e o bacalhau previamente cozido e desfiado, envolva e deixe cozinhar mais uns minutos.","Junte a batata palha e metade das natas leves envolva e tempere com sal e pimenta a gosto.","Junte os espinafres e envolva.","Junte as restantes natas leves  e polvilhe com queijo ralado. Leve a gratinar ao forno pré-aquecido a 200ºC, durante 20 minutos até ficar bem dourado e crocante."],
+        "ingredients":["2 c. sopa de azeite","1 cebola picada","4 dentes de alho picados","2 folhas de louro","2 cenouras raladas","300 g de miolo de camarão","400 g de bacalhau desfiado e cozido","300 g de batata palha","400 ml de natas leves","1 c. café de sal","Pimenta q.b.","170 g de espinafres","150 g de queijo mozzarella ralado"]
+      },
+      {
+    "id": "10",
+    "title": "Bacalhau com Natas",
+    "description": "O bacalhau com natas é um prato icónico e de sabor inconfundível na gastronomia portuguesa. A delicadeza do bacalhau desfiado, envolto num molho cremoso de natas e de béchamel, criam um bacalhau com natas verdadeiramente delicioso.",
+    "url": "https://feed.continente.pt/media/00vdtcie/bacalhau-com-natas.jpg?anchor=center&mode=crop&width=826&height=620&rnd=133450565153270000&format=webp",
+    "time": "60",
+    "portions": "4",
+    "instructions": [
+      "Coza o bacalhau em água fervente durante 10 minutos e desfie-o.",
+      "Frite a cebola e o alho no azeite até alourar.",
+      "Adicione o bacalhau e envolva bem.",
+      "Junte as batatas fritas e misture.",
+      "Adicione as natas, tempere com sal e pimenta.",
+      "Coloque num tabuleiro, polvilhe com queijo e leve ao forno a gratinar."
+    ],
+    "ingredients": [
+      "400 g de bacalhau demolhado",
+      "1 cebola picada",
+      "2 dentes de alho",
+      "300 g de batata frita",
+      "200 ml de natas",
+      "2 c. sopa de azeite",
+      "Sal q.b.",
+      "Pimenta q.b.",
+      "100 g de queijo ralado"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Salmão Grelhado com Limão",
+    "description": "Salmão simples e saudável grelhado com limão.",
+    "url": "https://feed.continente.pt/media/3l2jsunq/lombos-de-salmao-na-frigideira-receita.jpg?anchor=center&mode=crop&width=826&height=620&rnd=133377129578600000&format=webp",
+    "time": "25",
+    "portions": "2",
+    "instructions": [
+      "Tempere os lombos de salmão com sal, pimenta e sumo de limão.",
+      "Aqueça uma grelha com um fio de azeite.",
+      "Grelhe o salmão durante 3 a 4 minutos de cada lado.",
+      "Sirva com rodelas de limão."
+    ],
+    "ingredients": [
+      "2 lombos de salmão",
+      "1 limão",
+      "1 c. sopa de azeite",
+      "Sal q.b.",
+      "Pimenta q.b."
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Frango Assado no Forno",
+    "description": "Frango suculento assado com ervas aromáticas.",
+    "url": "https://feed.continente.pt/media/hv3pzyjp/frango-assado.jpg?anchor=center&mode=crop&width=826&height=620&rnd=133821961434730000&format=webp",
+    "time": "75",
+    "portions": "4",
+    "instructions": [
+      "Tempere o frango com alho, sal, pimenta e ervas.",
+      "Regue com azeite e vinho branco.",
+      "Leve ao forno pré-aquecido a 180ºC durante 1 hora.",
+      "Vá regando o frango com o próprio molho."
+    ],
+    "ingredients": [
+      "1 frango inteiro",
+      "3 dentes de alho",
+      "100 ml de vinho branco",
+      "2 c. sopa de azeite",
+      "Sal q.b.",
+      "Pimenta q.b.",
+      "Ervas aromáticas q.b."
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Carne de Porco à Alentejana",
+    "description": "Prato tradicional com carne de porco e amêijoas.",
+    "url": "https://feed.continente.pt/media/nxtf5w3a/carne-porco-alentejana.jpg?anchor=center&mode=crop&width=826&height=620&rnd=133475386449070000&format=webp",
+    "time": "45",
+    "portions": "4",
+    "instructions": [
+      "Tempere a carne com alho, massa de pimentão e vinho branco.",
+      "Frite a carne em azeite até dourar.",
+      "Adicione as amêijoas e tape até abrirem.",
+      "Sirva com batata frita e coentros."
+    ],
+    "ingredients": [
+      "500 g de carne de porco",
+      "300 g de amêijoas",
+      "2 dentes de alho",
+      "2 c. sopa de massa de pimentão",
+      "100 ml de vinho branco",
+      "Azeite q.b.",
+      "Coentros q.b."
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Arroz de Marisco",
+    "description": "Arroz malandrinho rico em marisco.",
+    "url": "https://feed.continente.pt/media/lvoch4bo/arroz-de-marisco-receita-tradicional.jpg?anchor=center&mode=crop&width=826&height=620&rnd=133371732365930000&format=webp",
+    "time": "50",
+    "portions": "4",
+    "instructions": [
+      "Refogue a cebola e o alho no azeite.",
+      "Adicione o tomate e deixe cozinhar.",
+      "Junte o marisco e mexa bem.",
+      "Adicione água quente e o arroz.",
+      "Cozinhe até o arroz ficar no ponto."
+    ],
+    "ingredients": [
+      "300 g de marisco variado",
+      "1 cebola",
+      "2 dentes de alho",
+      "2 tomates maduros",
+      "200 g de arroz",
+      "Azeite q.b.",
+      "Sal q.b."
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Lasanha de Carne",
+    "description": "Lasanha clássica com molho bolonhesa.",
+    "url": "https://feed.continente.pt/media/s5ip2ud3/lasanha-2.jpg?anchor=center&mode=crop&width=826&height=620&rnd=133571219016070000&format=webp",
+    "time": "70",
+    "portions": "6",
+    "instructions": [
+      "Refogue a cebola e o alho.",
+      "Adicione a carne picada e deixe cozinhar.",
+      "Junte o tomate triturado.",
+      "Monte a lasanha alternando massa, carne e molho béchamel.",
+      "Leve ao forno a 180ºC durante 40 minutos."
+    ],
+    "ingredients": [
+      "500 g de carne picada",
+      "1 cebola",
+      "2 dentes de alho",
+      "400 g de tomate triturado",
+      "Placas de lasanha",
+      "Molho béchamel",
+      "Queijo ralado"
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Dourada Assada com Batatas",
+    "description": "Dourada no forno com batata e cebola.",
+    "url": "https://feed.continente.pt/media/yjafsecg/dourada-no-forno.jpg?anchor=center&mode=crop&width=826&height=620&rnd=133501562338600000&format=webp",
+    "time": "60",
+    "portions": "2",
+    "instructions": [
+      "Disponha as batatas em rodelas num tabuleiro.",
+      "Coloque a dourada por cima.",
+      "Tempere com sal, alho e azeite.",
+      "Leve ao forno a 180ºC durante 45 minutos."
+    ],
+    "ingredients": [
+      "1 dourada inteira",
+      "3 batatas",
+      "2 dentes de alho",
+      "Azeite q.b.",
+      "Sal q.b."
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Mousse de Chocolate",
+    "description": "Sobremesa clássica e cremosa de chocolate.",
+    "url": "https://feed.continente.pt/media/bxvf1t4a/mousse-chocolate.jpg?anchor=center&mode=crop&width=826&height=620&rnd=133782069036270000&format=webp",
+    "time": "20",
+    "portions": "6",
+    "instructions": [
+      "Derreta o chocolate em banho-maria.",
+      "Separe as gemas das claras.",
+      "Misture as gemas com o chocolate.",
+      "Bata as claras em castelo e envolva suavemente.",
+      "Leve ao frigorífico antes de servir."
+    ],
+    "ingredients": [
+      "200 g de chocolate negro",
+      "6 ovos",
+      "1 pitada de sal"
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Pudim de Ovos",
+    "description": "Pudim tradicional português.",
+    "url": "https://feed.continente.pt/media/r4jlxkmu/pudim-airfryer.jpg?anchor=center&mode=crop&width=826&height=620&rnd=133534317624300000&format=webp",
+    "time": "50",
+    "portions": "8",
+    "instructions": [
+      "Prepare o caramelo e forre a forma.",
+      "Misture os ovos com o açúcar e o leite.",
+      "Verta para a forma.",
+      "Leve ao forno em banho-maria durante 45 minutos."
+    ],
+    "ingredients": [
+      "6 ovos",
+      "500 ml de leite",
+      "200 g de açúcar",
+      "Caramelo líquido"
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Bolo de Iogurte",
+    "description": "Bolo simples e fofo para o dia a dia.",
+    "url": "https://feed.continente.pt/media/feip4hkz/bolo-de-iogurte.jpg?anchor=center&mode=crop&width=826&height=620&rnd=133541130349330000&format=webp",
+    "time": "45",
+    "portions": "8",
+    "instructions": [
+      "Misture o iogurte com os ovos e o açúcar.",
+      "Adicione o óleo e mexa.",
+      "Junte a farinha e o fermento.",
+      "Leve ao forno a 180ºC durante 35 minutos."
+    ],
+    "ingredients": [
+      "1 iogurte natural",
+      "4 ovos",
+      "2 copos de açúcar",
+      "1 copo de óleo",
+      "3 copos de farinha",
+      "1 c. chá de fermento"
+    ]
+  }
+    ]
+  }
