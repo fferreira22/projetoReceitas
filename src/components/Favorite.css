@@ -1,0 +1,26 @@
+/* Favorites */
+.favorite-item{
+  display: flex;
+  flex-direction: column;
+  text-align:center;
+  margin-right: 10px;
+}
+.favorites-img{
+  width:60px;
+  height: 60px;
+  border-radius:50%;
+  border:5px solid var(--white);
+  cursor:pointer;
+}
+.remove-btn{
+  margin-top:0.25rem;
+  background:transparent;
+  color:var(--white);
+    border:transparent;
+  cursor:pointer;
+  font-size:0.7rem;
+  transition:var(--transition);
+}
+.remove-btn:hover{
+  color: orange;
+}

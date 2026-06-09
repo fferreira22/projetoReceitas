@@ -1,0 +1,136 @@
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.back-button{
+  border: 0;
+  border-radius: 0.25rem;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  color: white;
+  background: orange;
+  width: 150px;
+  height: 40px
+}
+.back-button:hover{
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  transition: box-shadow 0.3s ease;
+}
+.recipe-first {
+  margin: 0;
+  display: flex;
+  height: 50vh;
+  box-sizing: border-box;
+}
+.recipe-second {
+  display: flex;
+  justify-content: center;  /* centra ingredients + preparation */
+  align-items: flex-start;  /* alinha pelo topo */
+  gap: 60px;
+
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 60px 20px;
+  box-sizing: border-box;
+}
+
+/* LEFT PANEL */
+.recipe-info {
+  flex: 1;
+  padding: 60px;
+  background: #f7f3ec;
+  width: 50vh;
+}
+
+.recipe-info h1 {
+  font-size: 48px;
+  margin: 30px 0;
+  color: #333;
+}
+
+.meta,
+.rating {
+  display: flex;
+  gap: 20px;
+  font-size: 18px;
+  margin-bottom: 20px;
+  color: #444;
+}
+
+/* RIGHT PANEL */
+.recipe-image {
+  flex: 1;
+  position: relative;
+}
+
+.recipe-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.recipe-details {
+  display: flex;
+  box-sizing: border-box;
+  gap: 60px;
+  /*max-width: 1200px;*/
+  margin: 60px auto;
+}
+
+/* INGREDIENTS */
+.ingredients {
+  /*width: 10%;*/
+  padding: 30px;
+  flex: 1;
+  background-color: #ffe6a9;
+}
+
+.ingredients h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.ingredients ul {
+  border-top: 2px solid orange;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.ingredients li {
+  padding: 12px 0;
+  border-bottom: 1px dashed #ccc;
+  font-size: 14px;
+}
+
+/* PREPARATION */
+.preparation {
+  /*width: 50%;*/
+  flex: 1;
+  position: relative;
+  padding: 30px;
+}
+
+.preparation h2 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.preparation ol {
+  padding-left: 20px;
+  border-top: 2px solid orange;
+}
+
+.preparation li {
+  padding: 20px 0;
+  border-bottom: 1px solid #ccc;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.preparation li::marker {
+  font-weight: bold;
+}
